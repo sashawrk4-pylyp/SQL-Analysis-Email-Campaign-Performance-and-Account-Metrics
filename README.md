@@ -46,6 +46,16 @@ The analysis included:
 - Verified accounts represented 71.58% of all accounts.
 - December 2020 recorded the highest number of sent messages.
 
+## Project Files
+- [analysis.sql](analysis.sql) — SQL queries used in the analysis.
+- [conclusions.md](conclusions.md) — Detailed findings, insights, recommendations, and data limitations.
+
+## Conclusions
+The analysis revealed geographical differences in account distribution and email campaign activity. The United States was the largest market, while most accounts had verified status and a one-day email sending interval.
+The findings provide a basis for further investigation of email engagement across countries and user segments.
+
+
+
 
 # SQL-аналіз: Ефективність Еmail-Кампаній та Показники Облікових Записів
 
@@ -102,10 +112,3 @@ The analysis included:
 ## Висновки
 Аналіз виявив географічні відмінності в розподілі облікових записів та активності email-кампаній. Сполучені Штати виявилися найбільшим ринком, тоді як більшість облікових записів мали статус верифікованих, а найпоширенішим інтервалом надсилання електронних листів був один день.
 Отримані результати створюють основу для подальшого дослідження залученості користувачів до email-кампаній у розрізі країн та окремих сегментів.
-## Project Files
-- [analysis.sql](analysis.sql) — SQL queries used in the analysis.
-- [conclusions.md](conclusions.md) — Detailed findings, insights, recommendations, and data limitations.
-
-## Conclusions
-The analysis revealed geographical differences in account distribution and email campaign activity. The United States was the largest market, while most accounts had verified status and a one-day email sending interval.
-The findings provide a basis for further investigation of email engagement across countries and user segments.
